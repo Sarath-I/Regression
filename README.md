@@ -1,5 +1,3 @@
-# Regression
-
 # California Housing Price Prediction using Regression Models
 
 ## Project Overview
